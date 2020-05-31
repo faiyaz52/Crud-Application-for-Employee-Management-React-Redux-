@@ -1,0 +1,6 @@
+.action{
+    opacity: 0;
+}
+tr:hover .action{
+    opacity: 1;
+}
