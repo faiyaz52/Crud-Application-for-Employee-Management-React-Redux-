@@ -1,4 +1,4 @@
-Curd Application Employee Management
+Curd Application for Employee Management
 
 This is real time Employee Management Aplication
 
